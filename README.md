@@ -7,4 +7,4 @@ this app is an On-Device Inference Mobile Application named diabetictor, an app 
 * checkout the "DNN_model" repository for TFLite model
 * checkout the "diabetictor" repository for mobile app construction with flutter framework
 
-<img width="1014" height="738" alt="Screenshot 2025-10-27 140733" src="https://github.com/user-attachments/assets/a2f047bc-c55f-4240-888f-d71cc4570018" />
+<img width="507" height="369" alt="Screenshot 2025-10-27 140733" src="https://github.com/user-attachments/assets/a2f047bc-c55f-4240-888f-d71cc4570018" />
